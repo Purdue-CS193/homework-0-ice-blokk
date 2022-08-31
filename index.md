@@ -16,10 +16,15 @@ Syntax highlighted code block
 ### Header 3
 
 - Bulleted
-- List
+- Lists
+- are
+- cool
 
 1. Numbered
 2. List
+3. are
+4. even
+5. cooler!
 
 **Bold** and _Italic_ and `Code` text
 
